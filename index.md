@@ -14,15 +14,5 @@ Si requieres de una cita, regístrala o si tienes una puedes consultarla o cance
   <label for="name">Correo Electronico:</label><br>
   <input type="text" id="name" name="name" valve="Pon tu correo"><br>
   <input type="submit" value="Enviar">
-  <!DOCTYPE html>
-<html>
-<body>
-
-<?php
-echo "The time is " . date("h:i:sa");
-?>
-
-</body>
-</html>
-
+ 
   </form>
